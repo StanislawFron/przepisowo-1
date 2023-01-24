@@ -1,0 +1,11 @@
+<div class="col-12 col-lg-2 d-flex flex-column items-align-center text-center np pt-2" id="calendar-menu">
+            <h2>MENU</h2>
+            <div class="mt-2">
+               <div class="row mb-2"><div class="col-4 np"><div class='ingredientImg float-right' style='background-image:url("<?= get_home_url() ?>/wp-content/themes/przepisy/assets/img/journal-plus.svg")'></div></div><div class="col-8 text-left d-flex align-items-center"><a href="/user/addRecipe">Dodaj przepis</a></div></div>
+               <div class="row mb-2"><div class="col-4 np"><div class='ingredientImg float-right' style='background-image:url("<?= get_home_url() ?>/wp-content/themes/przepisy/assets/img/card-list.svg")'></div></div><div class="col-8 text-left d-flex align-items-center"><a href="/user/moje-przepisy">Moje przepisy</a></div></div>
+               <div class="row mb-2"><div class="col-4 np"><div class='ingredientImg float-right' style='background-image:url("<?= get_home_url() ?>/wp-content/themes/przepisy/assets/img/calendar-month.svg")'></div></div><div class="col-8 text-left d-flex align-items-center"><a href="user/calendar?month=<?= ltrim(date('m'), "0") ?>">Kalendarz</a></div></div>
+               <div class="row mb-2"><div class="col-4 np"><div class='ingredientImg float-right' style='background-image:url("<?= get_home_url() ?>/wp-content/themes/przepisy/assets/img/calendar-month.svg")'></div></div><div class="col-8 text-left d-flex align-items-center"><a href="/user/dodaj-skladnik">Składniki</a></div></div>
+               <div class="row mb-2"><div class="col-4 np"><div class='ingredientImg float-right' style='background-image:url("<?= get_home_url() ?>/wp-content/themes/przepisy/assets/img/card-list.svg")'></div></div><div class="col-8 text-left d-flex align-items-center"><a href="/user/lista-zakupow">Lista zakupów</a></div></div>
+               <div class="row mb-2"><div class="col-4 np"><div class='ingredientImg float-right' style='background-image:url("<?= get_home_url() ?>/wp-content/themes/przepisy/assets/img/box-arrow-right.svg")'></div></div><div class="col-8 text-left d-flex align-items-center"><a href='przepisy/logout'>Wyloguj</a></div></div>
+            </div>
+        </div>

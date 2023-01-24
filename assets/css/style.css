@@ -1,0 +1,257 @@
+.np {
+  margin: 0px;
+  padding: 0px;
+}
+
+.logo-div {
+  cursor: pointer;
+}
+
+.logo {
+  width: 70px;
+  height: 100px;
+  background-image: url(../img/przepisowoLogo.svg);
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hero-image {
+  height: 300px;
+  background-image: url(../img/backPicture.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hero-image-text {
+  font-size: 18px;
+  width: 50%;
+  height: 60%;
+  border: 3px solid white;
+  color: white;
+  -webkit-backdrop-filter: blur(0px);
+          backdrop-filter: blur(0px);
+}
+
+.hero-image-text h1 {
+  font-weight: 700 !important;
+}
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  -webkit-backdrop-filter: blur(3px) brightness(1.2);
+          backdrop-filter: blur(3px) brightness(1.2);
+}
+
+.search-form {
+  background-color: white;
+}
+
+.search-result {
+  background-color: white;
+}
+
+.form-search-input {
+  border: 1px solid #616060;
+  border-radius: 15px 0px 0px 15px;
+}
+
+.form-search-btn {
+  border-radius: 0px 15px 15px 0px;
+}
+
+.ingredientResult {
+  height: 150px;
+  border: 1px solid #cfcfcf;
+}
+
+.title-div {
+  font-size: 20px;
+  font-family: lato;
+  font-weight: 600;
+}
+
+.recipe-img {
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.recipe-type-div-img {
+  width: 75px;
+  height: 75px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.recipe-time-div-img {
+  width: 75px;
+  height: 75px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/clock.svg);
+}
+
+.ingredientImg {
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.form-title {
+  font-size: 30px;
+}
+
+.form-long-input {
+  width: 250px;
+}
+
+.form-long-input {
+  width: 250px;
+}
+
+.form-long-text {
+  width: 250px;
+  height: 200px;
+}
+
+.form-long-text-preparing {
+  width: 250px;
+  height: 300px;
+}
+
+#hideShowBtn {
+  float: right;
+}
+
+.smallBtn {
+  font-size: 12px;
+}
+
+@media (max-width: 991px) {
+  .form-search-btn {
+    border-radius: 0px 15px 15px 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .hero-image-text {
+    width: 80%;
+    height: 80%;
+  }
+  .hero-image-text h1 {
+    font-size: 28px;
+  }
+  .logo {
+    width: 35px;
+    height: 50px;
+  }
+  .form-search-input {
+    width: 50%;
+  }
+  .form-search-btn {
+    border-radius: 10px 10px 10px 10px;
+  }
+}
+
+.day {
+  width: 150px;
+  height: 150px;
+}
+
+#calendarNavFixed {
+  display: none;
+}
+
+.calendarNavFixedOther {
+  position: fixed;
+  top: 0;
+  left: 16.7%;
+  width: 66.6%;
+  background-color: white;
+  z-index: 100;
+}
+
+.calendarNavFixedPhone {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  z-index: 100;
+}
+
+.menuHidden {
+  display: none !important;
+}
+
+.menuShown {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+a {
+  color: black !important;
+  text-decoration: none !important;
+  text-transform: uppercase !important;
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+.calendarActive {
+  background-color: #60dbfa;
+}
+
+.calendarUnactive {
+  background-color: #bcf2ff;
+}
+
+.calendarRecipe {
+  background-color: #fc2929;
+}
+
+.shoppingListIngredient {
+  min-height: 26px;
+}
+
+.shoppingListIngredientImg {
+  margin: 3px;
+  height: 20px;
+  width: 20px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.shoppingListElementInput {
+  height: 25px;
+  max-width: 100px;
+}
+
+.shoppingListElementSave {
+  padding: 0px;
+}
+
+.myRecipesResult {
+  min-height: 65px;
+  border: 1px solid #cfcfcf;
+}
+
+.updateImg {
+  width: 200px;
+  height: 100px;
+}
+/*# sourceMappingURL=style.css.map */

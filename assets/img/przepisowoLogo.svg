@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="6.4332" y="10.722" width="174.41" height="277.34" rx="10.348" ry="9.4138" stroke-width=".27812"/>
+  <rect x="141.48" y="10.722" width="39.361" height="9.4138" stroke-width=".24555"/>
+  <rect x="141.48" y="278.65" width="39.361" height="9.4138" stroke-width=".24555"/>
+ </g>
+ <g fill="#fff">
+  <rect x="15.166" y="257.36" width="153.53" height="17.87" ry="8.935" stroke-width=".28057"/>
+  <rect x="44.388" y="200.76" width="124.01" height="44.863" stroke-width=".30691"/>
+  <rect x="140.45" y="22.831" width="27.946" height="186.41" stroke-width=".25619"/>
+  <rect x="44.141" y="22.857" width="114.24" height="39.493" stroke-width=".26768"/>
+  <rect x="16.21" y="20.835" width="17.185" height="230.99" rx="7.6482" ry="6.6793" stroke-width=".23209"/>
+  <rect x="152.52" y="257.33" width="16.174" height="17.902" stroke-width=".28869"/>
+ </g>
+ <g>
+  <rect x="46.536" y="54.521" width="99.284" height="152.75" rx="10.348" ry="6.0949" stroke-width=".25787"/>
+  <rect x="43.847" y="54.461" width="11.941" height="8.403" stroke-width=".39392"/>
+  <rect x="8.0415" y="245.63" width="46.429" height="6.6986" stroke-width=".26458"/>
+ </g>
+ <rect x="23.377" y="20.835" width="10.018" height="6.8377" fill="#fff" stroke-width=".52312"/>
+ <rect x="41.073" y="183.81" width="24.227" height="23.213" stroke-width=".3128"/>
+ <rect x="44.399" y="68.805" width="90.048" height="125.79" fill="#fff" stroke-width=".27192"/>
+ <g>
+  <rect transform="rotate(45)" x="191.93" y="33.375" width="1.4531" height="1.4531" stroke-width=".26458"/>
+  <g stroke-width=".10669">
+   <rect transform="rotate(44.976)" x="192.71" y="30.789" width="10.722" height="4.1101"/>
+   <rect transform="rotate(131.23)" x="35.804" y="-193.42" width="10.722" height="4.1101"/>
+   <rect transform="rotate(132.06)" x="74.614" y="-156.78" width="10.722" height="4.1101"/>
+   <rect transform="rotate(45.662)" x="149.55" y="63.795" width="10.722" height="4.1101"/>
+  </g>
+  <rect x="56.201" y="165.57" width="65.94" height="4.1101" stroke-width=".26458"/>
+  <circle cx="103.36" cy="120.29" r="2.9063" stroke-width=".29685"/>
+  <ellipse cx="88.63" cy="117.82" rx="17.808" ry="17.423" stroke-width=".40124"/>
+  <circle cx="109.6" cy="123.81" r="11.616" stroke-width=".26458"/>
+  <rect transform="matrix(.99539 -.095928 .11171 .99374 0 0)" x="49.509" y="132.72" width="7.7002" height="23.38" ry="3.8397" stroke-width=".17891"/>
+  <rect transform="matrix(.98954 .14429 -.12857 .9917 0 0)" x="121.92" y="109.39" width="7.7002" height="23.38" ry="3.8397" stroke-width=".17891"/>
+ </g>
+ <circle cx="110.31" cy="123.99" r="6.2545" fill="#fff" stroke-width=".26458"/>
+ <g>
+  <rect x="54.508" y="222.52" width="78.849" height="9.6034" ry="4.8017" stroke-width=".21713"/>
+  <rect x="66.718" y="142.79" width="44.479" height="7.5816" ry="3.7908" stroke-width=".26458"/>
+  <circle cx="67.605" cy="123.81" r="11.616" stroke-width=".26458"/>
+ </g>
+ <circle cx="88.602" cy="118.18" r="12.777" fill="#fff" stroke-width=".5405"/>
+ <rect transform="matrix(-.31911 .94772 -.9335 -.35857 0 0)" x="72.602" y="-146.51" width="7.4645" height="26.615" ry="4.081" fill="#fff" stroke-width=".17765"/>
+ <circle cx="101.78" cy="126.23" r="3.0011" stroke-width=".30653"/>
+ <circle cx="104.09" cy="117.55" r="3.0011" stroke-width=".30653"/>
+ <g fill="#fff">
+  <circle cx="110.25" cy="124.02" r="6.2545" stroke-width=".26458"/>
+  <circle cx="67.247" cy="123.45" r="6.2545" stroke-width=".26458"/>
+  <rect transform="matrix(.14206 .98986 -.98057 .19619 0 0)" x="129.97" y="-71.368" width="7.6678" height="23.491" ry="3.602" stroke-width=".16915"/>
+ </g>
+ <circle cx="75.69" cy="126.74" r="2.9063" stroke-width=".29685"/>
+ <circle cx="73.036" cy="116.69" r="2.9063" stroke-width=".29685"/>
+ <g stroke-width=".26458">
+  <circle cx="67.287" cy="123.39" r="6.2545" fill="#fff"/>
+  <rect x="55.933" y="150.29" width="65.94" height="4.1101"/>
+  <rect transform="rotate(45)" x="158.96" y="65.638" width="1.4531" height="1.4531"/>
+  <text x="68.992691" y="164.20512" fill="#000000" font-family="Lato" font-size="11.289px" font-weight="bold" letter-spacing=".254px" style="line-height:1.25" xml:space="preserve"><tspan x="68.992691" y="164.20512" font-family="Lato" font-size="11.289px" font-weight="bold" stroke-width=".26458">RECIPE</tspan></text>
+ </g>
+</svg>
